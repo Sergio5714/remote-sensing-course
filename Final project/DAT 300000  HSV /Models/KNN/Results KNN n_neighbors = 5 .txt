@@ -1,0 +1,11 @@
+Classifier: KNN n_neighbors = 5 
+
+Cross validation score:
+
+ROC score 0 :0.77
+ROC score 1 :0.77
+ROC score 2 :0.76
+ROC score 3 :0.77
+ROC score 4 :0.76
+
+Time of execution, sec:10

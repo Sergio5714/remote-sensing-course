@@ -2,10 +2,10 @@ Classifier: SVM linear
 
 Cross validation score:
 
-ROC score 0 :0.50
-ROC score 1 :0.59
-ROC score 2 :0.47
-ROC score 3 :0.50
-ROC score 4 :0.57
+ROC score 0 :0.71
+ROC score 1 :0.71
+ROC score 2 :0.71
+ROC score 3 :0.71
+ROC score 4 :0.71
 
-Time of execution, sec:0
+Time of execution, sec:4682
