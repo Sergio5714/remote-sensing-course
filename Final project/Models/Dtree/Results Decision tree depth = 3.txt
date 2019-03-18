@@ -1,0 +1,11 @@
+Classifier: Decision tree depth = 3
+
+Cross validation score:
+
+ROC score 0 :0.54
+ROC score 1 :0.54
+ROC score 2 :0.55
+ROC score 3 :0.55
+ROC score 4 :0.55
+
+Time of execution, sec:0

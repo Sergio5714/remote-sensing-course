@@ -1,0 +1,11 @@
+Classifier: Random forest n_est = 50
+
+Cross validation score:
+
+ROC score 0 :0.54
+ROC score 1 :0.54
+ROC score 2 :0.54
+ROC score 3 :0.56
+ROC score 4 :0.56
+
+Time of execution, sec:0
